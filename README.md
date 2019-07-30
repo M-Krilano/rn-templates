@@ -1,2 +1,2 @@
 # rn-template
-template for basic bottom tab app
+Assorted templates for React Native Apps
